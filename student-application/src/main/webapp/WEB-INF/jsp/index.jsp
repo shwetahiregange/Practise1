@@ -15,6 +15,8 @@
 	<li><a href="/generate">Generate Id</a> </li></br>
 	<li><a href="/loadid">Load Id From Text file</a> </li></br>
 	<li><a href="/writeid">Write Id to Text file</a> </li>
+	<li><a href="/writeid">Checking</a> </li>
+	<li><a href="/writeid">Checking twice</a> </li>
   </ul>
    
 </body>
